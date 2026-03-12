@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-community
+langchain-core
+ollama
+pdfplumber
+sentence-transformers
+requests
+python-dotenv
+faiss-cpu
