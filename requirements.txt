@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-openai
+openai
+pdfplumber
+playwright
+sentence-transformers
+scikit-learn
+pandas
+python-dotenv
